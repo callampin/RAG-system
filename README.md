@@ -1,4 +1,4 @@
-# RAG Personalizado para Atención al Cliente
+# Customized RAG for Customer Service 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.11%2B-blue?logo=python" alt="Python 3.11+">
